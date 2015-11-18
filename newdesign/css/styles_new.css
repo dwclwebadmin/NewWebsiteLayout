@@ -1,0 +1,56 @@
+body{
+margin: 0;
+    padding: 0
+}
+ .logo{
+    margin: 10px;
+}
+.login-menu{
+    padding-top: 25px;
+}
+.navbar{
+    height: 10%;
+    margin-bottom: -1px;
+    padding-bottom: -1px;
+}
+.navbar li{
+font-size: 18px;
+    text-transform: uppercase;
+    margin: 5px;
+}
+.section{
+    margin:10px;
+}
+.section .thumbnail{
+    border:none;
+
+}
+.news-section{
+background:img/sample1.jpg;
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+}
+.news-section .page-header{
+    color:aliceblue;
+    text-align: center;
+}
+.new-section .thumbnail{
+    border:none;
+    margin: 5px;
+    padding:5px;
+}
+.footer{
+
+    background-color: #22A7F0;
+    height: 50%;
+    border:1px solid #EEEEEE;
+}
+.footer hr{
+    width:50%;
+}
+.footer .social-icons{
+    margin-left: 570px;
+}
+.footer img{
+    margin-right: 10px;
+}

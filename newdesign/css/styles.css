@@ -1,0 +1,154 @@
+body{
+    background-color:  #2E9AFE;     
+}
+.container
+{
+    background-color: #ffffff;
+    border: 2px thick #585858;
+}
+
+#nav-bar{
+	border-bottom:1px solid #FFFFF; 
+	background:#0B0B61;
+}
+
+.page-header{
+    margin-top: 
+        0;
+}
+.panel-body{
+    padding-top:0; 
+        
+}
+.featuredImg{
+    margin-bottom: 15px;
+        
+}
+.navbar-brand{
+    color: #fff;
+}
+
+.seal{
+float: left;
+margin:5px;
+margin-right: 5px;
+    
+}
+.school-event{  
+    width: 500px;
+                
+}
+.side-panel{
+width: 250px;
+    
+}
+.AGTC-mission{
+width: 300px;
+    
+}
+.footer{
+background-color: #0174DF;
+    
+}
+.footer p.navbar-text{
+    color: #fff;
+}
+ol.roman {list-style-type:upper-roman;}
+ol.alpha_upper {list-style-type:upper-alpha;font-size: 18px;}
+ol.alpha {list-style-type:lower-alpha;
+}
+.steps li{margin-right: 7em;}
+.channel{background-color: #ffffff;}
+.headlines{background-color: #dde6ee;}
+.opinion{background-color: #dde6ee;}
+
+/* For generic page styles. Not for sliders. */
+h2 {display:inline;}
+.div1, .div2 {width:700px;margin:0 auto;}
+.div1 {margin-top:30px;margin-bottom:60px;text-align:center;line-height:20px;}
+.div1 P {font-size:18px;}
+.div1 a, .div2 a {color:#07C; }
+.div1 a {margin:0 8px;}
+.div1 a.current {color:black; text-decoration:none;}
+.div2 {margin-top:70px;}
+.div2 li {padding-top:6px;padding-bottom:6px;}
+.green {color:Green;}
+.cn {font-family: "Courier New", Georgia;}
+#status {display:inline-block; margin-left:26px;line-height:50px;height:50px;vertical-align:middle;}
+
+.code
+{
+    border: dashed 1px #BCBCCB; padding:8px 12px; background-color: #F3F3F9; white-space:pre; font-family:"Courier New", Georgia;
+    font-size:12px; margin:6px 0;overflow:auto; 
+}
+.header{
+	background-color:#030;
+
+}
+.header_cas{
+	background-color:#03F;
+
+}
+.header_con{
+	background-color:#030;
+
+}
+.header_coecs{
+	background-color:#900;
+
+}
+.header_coed{
+	background-color:#06F;
+
+}
+.dept_header{
+	font-family:cursive;
+	font-size:36pt;
+	color:#F7FE2E;
+	text-shadow:0 0 0.01em #fff, 0 0 0.02em #fff,0 0 0.03em #fff, 0 0 0.04em #0f0, 0 0 0.06em #f00, 0 0 0.08em #0f0, 0 0 1.0em #000, 0 0 1.2em #0f0 ;
+}
+.dept_header_cas{
+	font-family:cursive;
+	font-size:36pt;
+	color:#FF0;
+	text-shadow:0 0 0.01em #fff, 0 0 0.02em #fff,0 0 0.03em #fff, 0 0 0.04em #0f0, 0 0 0.06em #00f, 0 0 0.08em #0f0, 0 0 1.0em #0f0, 0 0 1.2em #0f0 ;
+}
+.dept_header_con{
+	font-family:cursive;
+	font-size:36pt;
+	color:#FF0;
+	text-shadow:0 0 0.01em #fff, 0 0 0.02em #fff,0 0 0.03em #fff, 0 0 0.04em #0f0, 0 0 0.06em #00f, 0 0 0.08em #0f0, 0 0 1.0em #0f0, 0 0 1.2em #0f0 ;
+}
+.dept_header_coecs{
+	font-family:cursive;
+	font-size:36pt;
+	color:#000;
+	text-shadow:0 0 0.01em #000, 0 0 0.02em #fff,0 0 0.03em #000, 0 0 0.04em #000, 0 0 0.06em #000, 0 0 0.08em #fff, 0 0 1.0em #f00, 0 0 1.2em #f00 ;
+}.dept_header_coed{
+	font-family:cursive;
+	font-size:36pt;
+	color:#CCC;
+	text-shadow:0 0 0.01em #00f, 0 0 0.02em #fff,0 0 0.03em #00f, 0 0 0.04em #00f, 0 0 0.06em #00f, 0 0 0.08em #00f, 0 0 1.0em #00f, 0 0 1.2em #00f ;
+}
+#slider {
+	margin-top:20px; 
+	width: 720px;
+	height: 400px;
+	overflow: hidden;
+}
+#slider .slides{
+	display: block;
+	width: 6000px;
+	height: 400px;
+	margin:0;
+	padding:0;
+}
+#slider .slide{
+	float: left;
+	list-style-type: none;
+	width: 720px;
+	height: 400px;
+}
+.dropdown{
+	color:white;
+}
